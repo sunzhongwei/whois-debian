@@ -250,7 +250,7 @@
 .pr	whois.nic.pr
 .ps	whois.pnina.ps
 .pt	whois.dns.pt
-.pw	NONE		# http://www.pwregistry.pw/
+.pw     whois.nic.pw	
 .py	WEB http://www.nic.py/consultas.html
 .qa	whois.registry.qa
 .re	whois.nic.fr
